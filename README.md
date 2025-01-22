@@ -1,1 +1,2 @@
-# Neuralnetwrok_week02_assignment
+Name:  Guru Raghavender reddy
+ID: 700766339.
